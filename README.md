@@ -43,4 +43,4 @@ python mainGUI.py
 - **Classify Tweets**: Select the desired classification algorithm and classify the sentiments of the tweets.
 - **Review and Save Results**: Evaluate the output, make manual adjustments if needed, and save the results.
 
-Please note that a example training data file is provided in `helper_files` folder along with sentiment dictionaries files uselful for the dictionary mode in the application. I do not own those training data. 
+Please note that an example training data file is provided in `helper_files` folder along with sentiment dictionaries files uselful for the dictionary mode in the application. I do not own those training data. 
